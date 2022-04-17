@@ -23,7 +23,7 @@ Menus:
     #Dropdown menu
     - identifier: dropdown
       title: Example dropdown menu
-      name: Dropdown
+      name: Apps
       weight: 2
     - identifier: dropdown1
       title: example dropdown 1
@@ -45,7 +45,7 @@ params:
   favicon: "/logo.png"
 
   theme:
-    disableThemeToggle: true
+    disableThemeToggle: false
     # defaultTheme: "light" # dark
 
   # font:
@@ -91,7 +91,7 @@ params:
     intro: "Hi, my name is"
     title: "Ernad."
     subtitle: ""
-    content: "My motivation for creating this simple website is to learn the R programming language while also preparing for the CFA exam. The goal is to explore various topics using a data-driven approach, and build useful applications that can be utilized in the investment decision process. Best things in life are free, so perhaps someone finds something useful as well."    
+    content: "My motivation for creating this simple website is to learn the R programming language while also preparing for the CFA exam. The goal is to explore various topics using a data-driven approach, and build useful applications that I can utilize in the investment decision process. Best things in life are free, so perhaps someone finds something useful as well."    
     image: /images/IMG_2715.jpg
     button:
       enable: false
@@ -274,38 +274,38 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
-        # badges:
-        #   - "Django"
-        #   - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
-
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+      # - title: Image Converter
+      #   content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      #   image: /images/projects/converter.jpg
+      #   featured:
+      #     name: Demo
+      #     link: https://django-converter.herokuapp.com
+      #   # badges:
+      #   #   - "Django"
+      #   #   - "Bootstrap"
+      #   links:
+      #     - icon: fab fa-github
+      #       url: https://github.com/gurusabarish/converter
+      # 
+      # - title: Hugo Profile V2
+      #   content: A clean and simple Hugo template for personal portfolio and blog.
+      #   image: /images/projects/profile2.jpg
+      #   featured:
+      #     name: Demo V2
+      #     link: https://hugo-profile-2.netlify.app
+      #   # badges:
+      #   #   - "Hugo"
+      #   #   - "Bootstrap"
+      #   #   - "Javascript"
+      #   links:
+      #     - icon: fab fa-github
+      #       url: https://github.com/gurusabarish/HugoProfileV2
 
   #Contact
   contact:
     enable: true
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    email: ernadjaskic@gmail.com
     btnName: Mail me
 
   footer:
