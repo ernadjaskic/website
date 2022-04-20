@@ -97,16 +97,16 @@ params:
       enable: false
       name: "Resume"
       url: "#"
-    socialLinks:
-      fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
-        - icon: fab fa-youtube
-      customIcons:
-        - icon: /logo.png
-          url: "https://example.com"
+    # socialLinks:
+    #   fontAwesomeIcons:
+    #     - icon: fab fa-github
+    #       url: https://example.com
+    #     - icon: fab fa-twitter
+    #       url: https://example.com
+    #     - icon: fab fa-youtube
+    #   customIcons:
+    #     - icon: /logo.png
+    #       url: "https://example.com"
 
   # About
   about:
@@ -116,10 +116,10 @@ params:
     content: |-
       Do you have a favorite bell? No? I do! It's the ringing of the opening bell, marking the start of the trading day. Ding. Ding. Ding. Ding....and the adrenaline starts to kick in. I came to love it over a decade ago when I first started trading and investing. It's as exciting today as it was then. CNBC and Bloomberg are still my daily dose of bad habits. Needless to say, I love it all. 
 
-      In addition to obtaining my masters degree in investment management and finance, I am currently a CFA candidate. 
+      I also love technology and trying out new things.    
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are a few tools I've been working with recently:"
       items:
         - "MS Office"
         - "R"
