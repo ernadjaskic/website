@@ -91,7 +91,7 @@ params:
     intro: "Hi, my name is"
     title: "Ernad."
     subtitle: ""
-    content: "My motivation for creating this simple website is to learn the R programming language while also preparing for the CFA exam. The goal is to explore various topics using a data-driven approach, and build useful applications that I can utilize in the investment decision process. Best things in life are free, so perhaps someone finds something useful as well."    
+    content: "My motivation for creating this simple website is to learn the R programming language while also preparing for the CFA exam. The goal is to explore various topics using a data-driven approach, and build useful applications that I can utilize in my trading and investment decision process. Best things in life are free, so perhaps you'll find something useful as well."    
     image: /images/IMG_2715.jpg
     button:
       enable: false
@@ -261,7 +261,7 @@ params:
         image: /images/projects/client.jpg
         featured:
           name: Read
-          link: https://hugo-profile.netlify.app
+          link: https://www.ejaskic.com
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
@@ -310,9 +310,9 @@ params:
 
   footer:
      # recentPosts: true
-    socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+    # socialNetworks: 
+    #   github: https://github.com
+    #   linkedin: https://linkedin.com
+    #   twitter: https://twitter.com
+    #   instagram: https://instagram.com
+    #   facebook: https://facebook.com
